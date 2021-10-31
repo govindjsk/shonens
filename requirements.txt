@@ -1,0 +1,9 @@
+netoworkx
+numpy
+scipy
+pytorch==1.5.0
+matplotlib
+scikit-learn
+node2vec
+tqdm
+tensorboard
